@@ -91,8 +91,6 @@ numpy==1.23.5
 | Periodic symbol for chlorine         | "Cl"                           | "C"                              |
 
 
-## License
-MIT License - See [LICENSE](LICENSE) for details
 
 ## Acknowledgments
 - Original GPT-2 paper: [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
